@@ -4,7 +4,7 @@ body{
     background:#1de783;
 }
 
-.container{
+.product{
     width:900px;
     margin:60px auto;
     background:#fff;
@@ -81,7 +81,7 @@ h1{
     list-style:none;
 }
 
-.variant ul li a{
+.variant ul li img{
     text-decoration:none;
     font-size:14px;
     color:#007bff;
